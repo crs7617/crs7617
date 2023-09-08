@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Linux, webdev,devops and ml**
 
-- 📫 How to reach me **yandhi290918@gmail.com**
+- 📫 How to reach me **crsairam7617@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
