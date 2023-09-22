@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crs7617" alt="crs7617" /></a> </p>
 
-- 🔭 I’m currently working on **javascript ,C++ and tensorflow and react,js**
+- 🔭 I’m currently working on **cloudops,tensorflow and react.js**
 
-- 🌱 I’m currently learning **Tensorflow, css, node.js and react.js etc.**
+- 🌱 I’m currently learning **Tensorflow, , node.js and react.js etc.**
 
-- 🤝 I’m looking for help with **Linux, webdev,devops and ml**
+- 🤝 I’m looking for help with ** supabase,node.js and azure**
 
 - 📫 How to reach me **crsairam7617@gmail.com**
 
