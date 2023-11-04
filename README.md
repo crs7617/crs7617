@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **supabase,node.js and mongodb**
 
-- 💬 Ask me about **opencv,regression,classification and object detection**
+- 💬 Ask me about **opencv,supervised machine learning and streamlit**
 
 - 📫 How to reach me **yandhi290918@gmail.com**
 
