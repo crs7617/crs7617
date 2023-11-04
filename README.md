@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **opencv,object detection and neural networks**
 
-- 🌱 I’m currently learning **Unsupervised machine learning along with deep learning and R-CNN, node.js and react.js etc.**
+- 🌱 I’m currently learning **Unsupervised machine learning along with deep learning and CNN, node.js and react.js etc.**
 
 - 👯 I’m looking to collaborate on **Ml,web dev and other open source projects**
 
