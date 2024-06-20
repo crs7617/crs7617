@@ -1,9 +1,7 @@
 <h1 align="center" style="color:purple;">Hi 👋, I'm Sairam</h1>
 <h3 align="center" style="color:black;">A passionate explorer delving into the realms of generative AI and backend development.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=crs7617&label=Profile%20views&color=purple&style=flat" alt="crs7617" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crs7617&label=Profile%20views&color=0e75b6&style=flat" alt="crs7617" /> </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -11,11 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=purple" alt="Twitter Follow" />
-  </a>
-</p>
 
 <p align="center">
   🔭 I’m currently working on <strong>Gen AI and backend related projects</strong>
