@@ -103,18 +103,10 @@
   </a>
 </p>
 
-# Sairam (CRS7617)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crs7617&theme=chartreuse_dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crs7617&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crs7617&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crs7617&theme=chartreuse_dark)
 
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crs7617&layout=compact&theme=radical)
-
-## Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crs7617&theme=dracula)
-
-## GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crs7617&theme=dark)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crs7617&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crs7617&theme=chartreuse_dark&utcOffset=8)
