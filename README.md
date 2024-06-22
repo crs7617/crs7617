@@ -103,14 +103,18 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crs7617&show_icons=true&locale=en&layout=compact&theme=radical" alt="crs7617" />
-</p>
+# Sairam (CRS7617)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crs7617&show_icons=true&locale=en&theme=radical" alt="crs7617" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crs7617&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crs7617&theme=radical" alt="crs7617" />
-</p>
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crs7617&layout=compact&theme=radical)
+
+## Contribution Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crs7617&theme=dracula)
+
+## GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crs7617&theme=dark)](https://git.io/streak-stats)
