@@ -9,9 +9,8 @@
   </a>
 </p>
 
-
 <p align="center">
-  🔭 I’m currently working on <strong>Gen AI and backend related projects</strong>
+  🔭 I'm currently working on <strong>Gen AI and backend related projects</strong>
 </p>
 
 <p align="center">
