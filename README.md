@@ -1,5 +1,5 @@
 <h1 align="center" style="color:purple;">Hi , I'm Sairam</h1>
-<h3 align="center" style="color:black;">A passionate explorer delving into the realms of generative AI and backend development.</h3>
+<h3 align="center" style="color:black;">Trying to write readable and clean code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crs7617&label=Profile%20views&color=0e75b6&style=flat" alt="crs7617" /> </p>
 
