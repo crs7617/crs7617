@@ -59,10 +59,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
 </div>
 
