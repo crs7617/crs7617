@@ -1,10 +1,6 @@
-<h1 align="center">Hey 👋 I'm Sairam</h1>
+<h1 align="center">Hey , I'm Sairam</h1>
 
-###
 
-<h3 align="center">Building Gen AI and backend solutions while exploring operating systems and kernel-level programming from the ground up.</h3>
-
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
